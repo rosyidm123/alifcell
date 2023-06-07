@@ -1,2 +1,2 @@
 # alifcell
-Aplikasi Kasir Alif Cell
+Website Kasir Alif Cell
